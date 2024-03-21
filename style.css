@@ -1,4 +1,6 @@
 .cabecalho - imagem{
+    width: 10%
+    height: 10%
     background-color: blue;
     color: red;
     display - flex 
