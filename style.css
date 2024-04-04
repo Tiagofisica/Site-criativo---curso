@@ -1,9 +1,4 @@
-.cabecalho - imagem{
-    width: 10%
-    height: 10%
-    background-color: blue;
-    color: red;
-    display - flex 
+header {
+    background-color: #424E61;
+    color: white;
 }
-.cabecalho - imagem
-width 20%
